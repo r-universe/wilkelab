@@ -1,0 +1,26 @@
+[
+  {
+    "package": "cowplot",
+    "oncran": true
+  },
+  {
+    "package": "ggridges",
+    "oncran": true
+  },
+  {
+    "package": "ggtext",
+    "oncran": true
+  },
+  {
+    "package": "gridtext",
+    "oncran": true
+  },
+  {
+    "package": "isoband",
+    "oncran": true
+  },
+  {
+    "package": "sicegar",
+    "oncran": true
+  }
+]
