@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "gridtext",
+    "oncran": true
+  },
+  {
     "package": "isoband",
     "oncran": true
   },
