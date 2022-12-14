@@ -23,11 +23,6 @@
 	url = https://github.com/wilkelab/gridtext
 	shallow = true
 	registered = true
-[submodule "isoband"]
-	path = isoband
-	url = https://github.com/wilkelab/isoband
-	shallow = true
-	registered = true
 [submodule "sicegar"]
 	path = sicegar
 	url = https://github.com/wilkelab/sicegar

@@ -16,10 +16,6 @@
     "oncran": true
   },
   {
-    "package": "isoband",
-    "oncran": true
-  },
-  {
     "package": "sicegar",
     "oncran": true
   }
