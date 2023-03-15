@@ -1,5 +1,13 @@
 [
   {
+    "package": "cowplot",
+    "oncran": true
+  },
+  {
+    "package": "ggridges",
+    "oncran": true
+  },
+  {
     "package": "ggtext",
     "oncran": true
   },
@@ -8,15 +16,7 @@
     "oncran": true
   },
   {
-    "package": "ggridges",
-    "oncran": true
-  },
-  {
     "package": "sicegar",
-    "oncran": true
-  },
-  {
-    "package": "cowplot",
     "oncran": true
   }
 ]
