@@ -14,6 +14,3 @@
 [submodule "gridtext"]
 	path = gridtext
 	url = https://github.com/wilkelab/gridtext
-[submodule "sicegar"]
-	path = sicegar
-	url = https://github.com/wilkelab/sicegar
